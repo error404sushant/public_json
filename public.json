@@ -1,0 +1,3238 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2708
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Test\
+\{\
+    "message": "success",\
+    "data": [\
+        \{\
+            "feedback_id": 244,\
+            "feedback_type": "SUGGESTION",\
+            "name": "sushant_012",\
+            "screen_category": "Product page",\
+            "brief": "I have problem with the payment methord. Whow to solve this.",\
+            "details": "Hello",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "21:07:2023 02:34:35",\
+            "user_reference": "U030223013",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 239,\
+            "feedback_type": "REPORT",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Orders/Delivery flow",\
+            "brief": "Orders search is not showing full list when cleared. Once it shown two items of same order",\
+            "details": "",\
+            "status": "FIXED",\
+            "group": null,\
+            "priority": null,\
+            "date": "20:07:2023 02:14:23",\
+            "user_reference": "U030323392",\
+            "upvote_count": 1,\
+            "upvote_users": "U030223013",\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": [\
+                \{\
+                    "feedback_file_id": 39,\
+                    "images": "/media/feed_back_image/Screenshot_2023-07-20-02-10-23-017_com.swadesic.swadesic.jpg",\
+                    "attachments": null,\
+                    "created_date": "2023-07-20T02:14:24.860026+05:30",\
+                    "feedback": 239\
+                \}\
+            ]\
+        \},\
+        \{\
+            "feedback_id": 237,\
+            "feedback_type": "REPORT",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Orders/Delivery flow",\
+            "brief": "Order reset from self delivery to logistics partner but it is not reflecting",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "20:07:2023 02:11:22",\
+            "user_reference": "U030323392",\
+            "upvote_count": 1,\
+            "upvote_users": "U030223013",\
+            "responses_count": 2,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 236,\
+            "feedback_type": "REPORT",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Orders/Delivery flow",\
+            "brief": "Order update history should be sentence format",\
+            "details": "And fonts should be according to theme",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "20:07:2023 02:09:23",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 235,\
+            "feedback_type": "REPORT",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Orders/Delivery flow",\
+            "brief": "OTP should not be asked for logistics partner delivery",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "20:07:2023 02:08:17",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 234,\
+            "feedback_type": "REPORT",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Orders/Delivery flow",\
+            "brief": "Let order reset also be added to the order update history",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "20:07:2023 02:07:33",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 233,\
+            "feedback_type": "REPORT",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Orders/Delivery flow",\
+            "brief": "When order status is reset to previous status from screens of can't delivery",\
+            "details": "The screen is not loading. I had to come back and refresh the order to know it was successful.",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "20:07:2023 02:06:29",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 1,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 232,\
+            "feedback_type": "REPORT",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Orders/Delivery flow",\
+            "brief": "When buyer is escalating for late delivery it is not raise for refund.",\
+            "details": "It is just escalating the issue",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "20:07:2023 02:04:19",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 231,\
+            "feedback_type": "REPORT",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Orders/Delivery flow",\
+            "brief": "When escalating for can't delivery, make the button look similar to other escalation buttons.",\
+            "details": "",\
+            "status": "FIXED",\
+            "group": null,\
+            "priority": null,\
+            "date": "20:07:2023 02:02:48",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 1,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 229,\
+            "feedback_type": "REPORT",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Orders/Delivery flow",\
+            "brief": "If escalation is similar to support responses, let's show them in support screen",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "20:07:2023 01:58:52",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 2,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 228,\
+            "feedback_type": "REPORT",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Orders/Delivery flow",\
+            "brief": "When i escalate the id should be given in notification",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "20:07:2023 01:58:09",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 227,\
+            "feedback_type": "REPORT",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Orders/Delivery flow",\
+            "brief": "When additional details is empty, you can hide it. Applicable only here",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "20:07:2023 01:56:45",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 225,\
+            "feedback_type": "REPORT",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Orders/Delivery flow",\
+            "brief": "Waiting for confirmation is always static",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "20:07:2023 01:54:28",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 1,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 224,\
+            "feedback_type": "REPORT",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Notifications",\
+            "brief": "Order status updates are not happening",\
+            "details": "",\
+            "status": "FIXED",\
+            "group": null,\
+            "priority": null,\
+            "date": "20:07:2023 01:54:01",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 221,\
+            "feedback_type": "REPORT",\
+            "name": "manojsixone_handle",\
+            "screen_category": "Orders/Cancel flow",\
+            "brief": "If title is given longer, feedback is not submitting.",\
+            "details": "Tried giving in description. Is there a limit",\
+            "status": "FIXED",\
+            "group": null,\
+            "priority": null,\
+            "date": "20:07:2023 01:51:30",\
+            "user_reference": "U041223739",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 3,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 220,\
+            "feedback_type": "REPORT",\
+            "name": "manojsixone_handle",\
+            "screen_category": "Orders/Cancel flow",\
+            "brief": "Before cancellation or before initiating return",\
+            "details": "call refund amount calculation title as Refund estimation",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "20:07:2023 01:50:30",\
+            "user_reference": "U041223739",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 219,\
+            "feedback_type": "REPORT",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Support",\
+            "brief": "Implement search functionality on title names, feedback id, username, category",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "20:07:2023 00:43:34",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 217,\
+            "feedback_type": "REPORT",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Reporting",\
+            "brief": "Report attachments are not opening. They are opening a banner",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "19:07:2023 00:09:46",\
+            "user_reference": "U030323392",\
+            "upvote_count": 1,\
+            "upvote_users": "U030223013",\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 215,\
+            "feedback_type": "REPORT",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Reporting",\
+            "brief": "Reporting title is repeating twice",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "19:07:2023 00:08:05",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 1,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 214,\
+            "feedback_type": "SUGGESTION",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Orders/Cancel flow",\
+            "brief": "Refund cost/more settings should have store pays not seller pays",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "19:07:2023 00:06:56",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 211,\
+            "feedback_type": "SUGGESTION",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Orders/Delivery flow",\
+            "brief": "Let product list in order details look similar to how it is order ui actions",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "13:07:2023 21:37:24",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 1,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 210,\
+            "feedback_type": "REPORT",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Orders/Delivery flow",\
+            "brief": "Delivery date update after confirmation before shipping is not happening",\
+            "details": "",\
+            "status": "FIXED",\
+            "group": null,\
+            "priority": null,\
+            "date": "13:07:2023 21:30:36",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 1,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 209,\
+            "feedback_type": "SUGGESTION",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Orders/Delivery flow",\
+            "brief": "UI update: date picker color - brand green; cancel done color - similar to other light grey buttons",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "13:07:2023 21:26:05",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 208,\
+            "feedback_type": "SUGGESTION",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "App",\
+            "brief": "Questions",\
+            "details": "1. Net banking list is not appearing; 2. Searchable list can also be applicable at UPI list",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "13:07:2023 20:03:03",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 207,\
+            "feedback_type": "REPORT",\
+            "name": "manojsixone_handle",\
+            "screen_category": "Order confirmation",\
+            "brief": "In the end note, replace \\"order numbers\\" with \\"order numbers or store names\\"",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "13:07:2023 20:00:13",\
+            "user_reference": "U041223739",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 205,\
+            "feedback_type": "REPORT",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Payment screen",\
+            "brief": "Grand total at payment hs two rupee symbols",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "13:07:2023 19:54:17",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 1,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 204,\
+            "feedback_type": "REPORT",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Orders/Cancel flow",\
+            "brief": "Correct spelling of Request in Refund breakup",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "13:07:2023 19:51:24",\
+            "user_reference": "U030323392",\
+            "upvote_count": 1,\
+            "upvote_users": "U051223416",\
+            "responses_count": 1,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 203,\
+            "feedback_type": "SUGGESTION",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Home",\
+            "brief": "Show drop down of recent stores only when it is more than 2 rows",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "11:07:2023 21:26:50",\
+            "user_reference": "U030323392",\
+            "upvote_count": 1,\
+            "upvote_users": "U030323392",\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 188,\
+            "feedback_type": "SUGGESTION",\
+            "name": "sushant_012",\
+            "screen_category": "Accounts",\
+            "brief": "Lorem Ipsum is simply dummy text of the",\
+            "details": "It is a long established fact that a reader will be distracted by the readable content of a",\
+            "status": "REVIEWED",\
+            "group": null,\
+            "priority": null,\
+            "date": "10:07:2023 16:42:59",\
+            "user_reference": "U030223013",\
+            "upvote_count": 0,\
+            "upvote_users": "",\
+            "responses_count": 12,\
+            "responses": null,\
+            "feedback_files": [\
+                \{\
+                    "feedback_file_id": 23,\
+                    "images": "/media/feed_back_image/IMG_20230710_164047.jpg",\
+                    "attachments": null,\
+                    "created_date": "2023-07-10T16:42:59.859763+05:30",\
+                    "feedback": 188\
+                \},\
+                \{\
+                    "feedback_file_id": 24,\
+                    "images": "/media/feed_back_image/IMG_20230710_164047_OEMC240.jpg",\
+                    "attachments": null,\
+                    "created_date": "2023-07-10T17:43:56.944317+05:30",\
+                    "feedback": 188\
+                \},\
+                \{\
+                    "feedback_file_id": 25,\
+                    "images": "/media/feed_back_image/IMG_20230710_164047_fuzsHKK.jpg",\
+                    "attachments": null,\
+                    "created_date": "2023-07-10T17:44:28.919507+05:30",\
+                    "feedback": 188\
+                \},\
+                \{\
+                    "feedback_file_id": 26,\
+                    "images": "/media/feed_back_image/IMG_20230710_164047_JR927HD.jpg",\
+                    "attachments": null,\
+                    "created_date": "2023-07-10T18:14:02.731678+05:30",\
+                    "feedback": 188\
+                \},\
+                \{\
+                    "feedback_file_id": 27,\
+                    "images": "/media/feed_back_image/IMG_20230710_164047_z88HJxI.jpg",\
+                    "attachments": null,\
+                    "created_date": "2023-07-10T18:26:18.746980+05:30",\
+                    "feedback": 188\
+                \},\
+                \{\
+                    "feedback_file_id": 28,\
+                    "images": "/media/feed_back_image/IMG_20230710_164047_tHLokxP.jpg",\
+                    "attachments": null,\
+                    "created_date": "2023-07-10T18:28:45.337201+05:30",\
+                    "feedback": 188\
+                \},\
+                \{\
+                    "feedback_file_id": 29,\
+                    "images": "/media/feed_back_image/IMG_20230710_164047_UmwW4Gj.jpg",\
+                    "attachments": null,\
+                    "created_date": "2023-07-10T18:31:11.420872+05:30",\
+                    "feedback": 188\
+                \},\
+                \{\
+                    "feedback_file_id": 30,\
+                    "images": "/media/feed_back_image/IMG_20230710_164047_gdFrio8.jpg",\
+                    "attachments": null,\
+                    "created_date": "2023-07-10T18:32:26.519049+05:30",\
+                    "feedback": 188\
+                \},\
+                \{\
+                    "feedback_file_id": 35,\
+                    "images": "/media/feed_back_image/IMG-20230706-WA0011.jpg",\
+                    "attachments": null,\
+                    "created_date": "2023-07-11T12:42:10.062097+05:30",\
+                    "feedback": 188\
+                \}\
+            ]\
+        \},\
+        \{\
+            "feedback_id": 187,\
+            "feedback_type": "REPORT",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Store page",\
+            "brief": "When there is no contact in message, tell no contact",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "10:07:2023 10:45:45",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 186,\
+            "feedback_type": "SUGGESTION",\
+            "name": "sushant_012",\
+            "screen_category": "Fraud",\
+            "brief": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum ha",\
+            "details": "It is a long established fact that a reader will be distracted by the readable content",\
+            "status": "PLANNED",\
+            "group": null,\
+            "priority": null,\
+            "date": "10:07:2023 01:52:59",\
+            "user_reference": "U030223013",\
+            "upvote_count": 1,\
+            "upvote_users": "U030223013",\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 185,\
+            "feedback_type": "REPORT",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Add products",\
+            "brief": "Product link should be optional",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "08:07:2023 19:23:45",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 184,\
+            "feedback_type": "REPORT",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Add products",\
+            "brief": "MRP can be same as selling price not necessarily always bigger",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "08:07:2023 19:23:28",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 183,\
+            "feedback_type": "SUGGESTION",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Edit products",\
+            "brief": "Confirm product deletion",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "08:07:2023 19:21:55",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 182,\
+            "feedback_type": "REPORT",\
+            "name": "manojsixone_handle",\
+            "screen_category": "Orders page",\
+            "brief": "Increase the spacing between each suborder",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "02:07:2023 17:39:45",\
+            "user_reference": "U041223739",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 181,\
+            "feedback_type": "REPORT",\
+            "name": "manojsixone_handle",\
+            "screen_category": "Orders/Cancel flow",\
+            "brief": "User should go to product page from order screen from anywhere including refund breakup screen",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "02:07:2023 17:18:22",\
+            "user_reference": "U041223739",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 180,\
+            "feedback_type": "REPORT",\
+            "name": "manojsixone_handle",\
+            "screen_category": "Orders/Cancel flow",\
+            "brief": "Change \\"refund cost breakup\\" to \\"refund breakup\\"",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "02:07:2023 17:17:04",\
+            "user_reference": "U041223739",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 179,\
+            "feedback_type": "SUGGESTION",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Shopping cart",\
+            "brief": "UI improvement for the address list",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "02:07:2023 17:11:25",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 178,\
+            "feedback_type": "REPORT",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Shopping cart",\
+            "brief": "Cart refresh is not working",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "02:07:2023 17:10:39",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 177,\
+            "feedback_type": "SUGGESTION",\
+            "name": "sushant_076790hjf",\
+            "screen_category": "Fraud",\
+            "brief": "jjj",\
+            "details": "kkk",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "30:06:2023 05:51:37",\
+            "user_reference": "U030223013",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 1,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 176,\
+            "feedback_type": "SUGGESTION",\
+            "name": "sushant_076790hjf",\
+            "screen_category": "Account balance",\
+            "brief": "test",\
+            "details": "jkjkjk",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "30:06:2023 05:48:17",\
+            "user_reference": "U030223013",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 175,\
+            "feedback_type": "SUGGESTION",\
+            "name": "sushant_076790hjf",\
+            "screen_category": "Home",\
+            "brief": "Test",\
+            "details": "Test 101",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "30:06:2023 05:47:35",\
+            "user_reference": "U030223013",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 174,\
+            "feedback_type": "SUGGESTION",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Onboarding",\
+            "brief": "While onboarding hide keyboard after 10 digit phone number",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "30:06:2023 00:41:55",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 173,\
+            "feedback_type": "REPORT",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Edit products",\
+            "brief": "While editing products, the top action should be \\"Save\\" not \\"Next\\"",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "30:06:2023 00:16:07",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 172,\
+            "feedback_type": "REPORT",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Delivery settings",\
+            "brief": "Day to Days in dropdown",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "30:06:2023 00:13:42",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": "",\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 171,\
+            "feedback_type": "REPORT",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Add products",\
+            "brief": "Selling price shouldn't be more than MRP",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "30:06:2023 00:12:38",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 170,\
+            "feedback_type": "SUGGESTION",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Home",\
+            "brief": "Rename checklist title to \\"Activation checklist to go live and start selling\\"",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "29:06:2023 01:45:13",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 168,\
+            "feedback_type": "SUGGESTION",\
+            "name": "sushant_076790hjf",\
+            "screen_category": "Notifications",\
+            "brief": "Zoom",\
+            "details": "Hhhh",\
+            "status": "REVIEWED",\
+            "group": null,\
+            "priority": null,\
+            "date": "27:06:2023 22:13:19",\
+            "user_reference": "U030223013",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 1,\
+            "responses": null,\
+            "feedback_files": [\
+                \{\
+                    "feedback_file_id": 22,\
+                    "images": "/media/feed_back_image/817WWpaFo1L._AC_UF8941000_QL80_FMwebp_.webp",\
+                    "attachments": null,\
+                    "created_date": "2023-06-27T22:13:20.062399+05:30",\
+                    "feedback": 168\
+                \}\
+            ]\
+        \},\
+        \{\
+            "feedback_id": 167,\
+            "feedback_type": "SUGGESTION",\
+            "name": "sushant_076790hjf",\
+            "screen_category": "Notifications",\
+            "brief": "Test",\
+            "details": "Zoom",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "27:06:2023 22:13:00",\
+            "user_reference": "U030223013",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 166,\
+            "feedback_type": "REPORT",\
+            "name": "sushant_076790hjf",\
+            "screen_category": "Notifications",\
+            "brief": "ddd",\
+            "details": "ssss",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "27:06:2023 19:54:50",\
+            "user_reference": "U030223013",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": [\
+                \{\
+                    "feedback_file_id": 21,\
+                    "images": "/media/feed_back_image/images_v1oXhaS.jpeg",\
+                    "attachments": null,\
+                    "created_date": "2023-06-27T19:54:50.665840+05:30",\
+                    "feedback": 166\
+                \}\
+            ]\
+        \},\
+        \{\
+            "feedback_id": 165,\
+            "feedback_type": "REPORT",\
+            "name": "sushant_076790hjf",\
+            "screen_category": "Notifications",\
+            "brief": "Dog",\
+            "details": "ddd",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "27:06:2023 19:54:38",\
+            "user_reference": "U030223013",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": [\
+                \{\
+                    "feedback_file_id": 19,\
+                    "images": "/media/feed_back_image/images_QzrLW2N.jpeg",\
+                    "attachments": null,\
+                    "created_date": "2023-06-27T19:54:38.487625+05:30",\
+                    "feedback": 165\
+                \},\
+                \{\
+                    "feedback_file_id": 20,\
+                    "images": "/media/feed_back_image/images_IJLsQfh.jpeg",\
+                    "attachments": null,\
+                    "created_date": "2023-06-27T19:54:38.722975+05:30",\
+                    "feedback": 165\
+                \}\
+            ]\
+        \},\
+        \{\
+            "feedback_id": 164,\
+            "feedback_type": "REPORT",\
+            "name": "sushant_076790hjf",\
+            "screen_category": "Onboarding",\
+            "brief": "Tt",\
+            "details": "Ggg",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "27:06:2023 19:53:59",\
+            "user_reference": "U030223013",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 163,\
+            "feedback_type": "REPORT",\
+            "name": "sushant_076790hjf",\
+            "screen_category": "Onboarding",\
+            "brief": "4",\
+            "details": "44",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "27:06:2023 19:51:32",\
+            "user_reference": "U030223013",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 162,\
+            "feedback_type": "REPORT",\
+            "name": "sushant_076790hjf",\
+            "screen_category": "Onboarding",\
+            "brief": "3",\
+            "details": "333",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "27:06:2023 19:51:26",\
+            "user_reference": "U030223013",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 161,\
+            "feedback_type": "REPORT",\
+            "name": "sushant_076790hjf",\
+            "screen_category": "Home",\
+            "brief": "2",\
+            "details": "22",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "27:06:2023 19:51:14",\
+            "user_reference": "U030223013",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": [\
+                \{\
+                    "feedback_file_id": 18,\
+                    "images": "/media/feed_back_image/images_ZaN8E8a.jpeg",\
+                    "attachments": null,\
+                    "created_date": "2023-06-27T19:51:15.225945+05:30",\
+                    "feedback": 161\
+                \}\
+            ]\
+        \},\
+        \{\
+            "feedback_id": 160,\
+            "feedback_type": "REPORT",\
+            "name": "sushant_076790hjf",\
+            "screen_category": "Accounts",\
+            "brief": "1",\
+            "details": "111",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "27:06:2023 19:51:00",\
+            "user_reference": "U030223013",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 159,\
+            "feedback_type": "REPORT",\
+            "name": "sushant_076790hjf",\
+            "screen_category": "Onboarding",\
+            "brief": "klkl",\
+            "details": "dddd",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "27:06:2023 19:47:14",\
+            "user_reference": "U030223013",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 158,\
+            "feedback_type": "REPORT",\
+            "name": "sushant_076790hjf",\
+            "screen_category": "Onboarding",\
+            "brief": "test",\
+            "details": "klklkl",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "27:06:2023 19:47:06",\
+            "user_reference": "U030223013",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 147,\
+            "feedback_type": "SUGGESTION",\
+            "name": "sushant_076790hjf",\
+            "screen_category": "Notifications",\
+            "brief": "Ttt",\
+            "details": "Jjjjj",\
+            "status": "APPROVED",\
+            "group": null,\
+            "priority": null,\
+            "date": "27:06:2023 18:30:37",\
+            "user_reference": "U030223013",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 4,\
+            "responses": null,\
+            "feedback_files": [\
+                \{\
+                    "feedback_file_id": 17,\
+                    "images": "/media/feed_back_image/images_qAi0TMX.jpeg",\
+                    "attachments": null,\
+                    "created_date": "2023-06-27T19:32:34.971311+05:30",\
+                    "feedback": 147\
+                \}\
+            ]\
+        \},\
+        \{\
+            "feedback_id": 146,\
+            "feedback_type": "SUGGESTION",\
+            "name": "sushant_076790hjf",\
+            "screen_category": "Home",\
+            "brief": "Hhhh",\
+            "details": "Tttt",\
+            "status": "REVIEWED",\
+            "group": null,\
+            "priority": null,\
+            "date": "27:06:2023 18:30:25",\
+            "user_reference": "U030223013",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 2,\
+            "responses": null,\
+            "feedback_files": [\
+                \{\
+                    "feedback_file_id": 14,\
+                    "images": "/media/feed_back_image/images_IUOdtoJ.jpeg",\
+                    "attachments": null,\
+                    "created_date": "2023-06-27T18:30:25.457160+05:30",\
+                    "feedback": 146\
+                \}\
+            ]\
+        \},\
+        \{\
+            "feedback_id": 145,\
+            "feedback_type": "SUGGESTION",\
+            "name": "sushant_076790hjf",\
+            "screen_category": "Home",\
+            "brief": "New home",\
+            "details": "test",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "27:06:2023 16:09:27",\
+            "user_reference": "U030223013",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 4,\
+            "responses": null,\
+            "feedback_files": [\
+                \{\
+                    "feedback_file_id": 15,\
+                    "images": "/media/feed_back_image/images_PHg3voS.jpeg",\
+                    "attachments": null,\
+                    "created_date": "2023-06-27T19:29:41.598691+05:30",\
+                    "feedback": 145\
+                \},\
+                \{\
+                    "feedback_file_id": 16,\
+                    "images": "/media/feed_back_image/images_Ik79i4I.jpeg",\
+                    "attachments": null,\
+                    "created_date": "2023-06-27T19:30:15.865789+05:30",\
+                    "feedback": 145\
+                \}\
+            ]\
+        \},\
+        \{\
+            "feedback_id": 144,\
+            "feedback_type": "SUGGESTION",\
+            "name": "sushant_076790hjf",\
+            "screen_category": "Home",\
+            "brief": "Test",\
+            "details": "Something",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "27:06:2023 16:09:17",\
+            "user_reference": "U030223013",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 141,\
+            "feedback_type": "SUGGESTION",\
+            "name": "sushant_076790hjf",\
+            "screen_category": "GST verification",\
+            "brief": "gggg",\
+            "details": "hhh",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "27:06:2023 15:45:36",\
+            "user_reference": "U030223013",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 2,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 140,\
+            "feedback_type": "SUGGESTION",\
+            "name": "sushant_076790hjf",\
+            "screen_category": "GST verification",\
+            "brief": "Test",\
+            "details": "K",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "27:06:2023 15:45:27",\
+            "user_reference": "U030223013",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 139,\
+            "feedback_type": "REPORT",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Support",\
+            "brief": "Expand all filter fields",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "26:06:2023 23:40:22",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 138,\
+            "feedback_type": "REPORT",\
+            "name": "manojsixone_handle",\
+            "screen_category": "Home",\
+            "brief": "Home screen should have not \\"create a store\\" not \\"create store\\"",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "26:06:2023 23:32:58",\
+            "user_reference": "U041223739",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 137,\
+            "feedback_type": "SUGGESTION",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Product page",\
+            "brief": "For store product page, change the view details button to edit",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "26:06:2023 23:13:37",\
+            "user_reference": "U030323392",\
+            "upvote_count": 1,\
+            "upvote_users": "U030323392",\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 136,\
+            "feedback_type": "REPORT",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Personal information",\
+            "brief": "Screen with default values and hint text is shown for a short duration before the main screen.",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "26:06:2023 23:11:25",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 135,\
+            "feedback_type": "REPORT",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Order confirmation",\
+            "brief": "My orders ideally doesn't need order numbers",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "25:06:2023 18:46:12",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 134,\
+            "feedback_type": "REPORT",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Orders/Cancel flow",\
+            "brief": "Consider auto cancel as closed suborder status while showing order list",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "22:06:2023 19:16:10",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 133,\
+            "feedback_type": "SUGGESTION",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Store onboarding",\
+            "brief": "Give some time to show if the handle is available",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "22:06:2023 10:03:46",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 132,\
+            "feedback_type": "REPORT",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Support",\
+            "brief": "Show number of characters allowed",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "22:06:2023 10:02:49",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 131,\
+            "feedback_type": "REPORT",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Support",\
+            "brief": "Responses added to the support is not showing",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "22:06:2023 10:02:20",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 129,\
+            "feedback_type": "REPORT",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Store onboarding",\
+            "brief": "When url is invalid, say that before itself",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "22:06:2023 10:01:07",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 1,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 128,\
+            "feedback_type": "REPORT",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "User profile",\
+            "brief": "Hide message button for now",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "22:06:2023 09:49:34",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 127,\
+            "feedback_type": "REPORT",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Home",\
+            "brief": "After saving pincode close the sheet",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "22:06:2023 09:47:49",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 124,\
+            "feedback_type": "SUGGESTION",\
+            "name": "manojsixone_handle",\
+            "screen_category": "Others",\
+            "brief": "Searchable list",\
+            "details": "Searchable list add button should appear when the appear constantly when the text is not present",\
+            "status": "FIXED",\
+            "group": null,\
+            "priority": null,\
+            "date": "17:06:2023 10:59:37",\
+            "user_reference": "U041223739",\
+            "upvote_count": 1,\
+            "upvote_users": "U030223013",\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 123,\
+            "feedback_type": "SUGGESTION",\
+            "name": "manojsixone_handle",\
+            "screen_category": "Orders",\
+            "brief": "Order details should look in sync with other order ui elements",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "17:06:2023 10:57:19",\
+            "user_reference": "U041223739",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 122,\
+            "feedback_type": "REPORT",\
+            "name": "manojsixone_handle",\
+            "screen_category": "Orders/Cancel flow",\
+            "brief": "Refund cost breakup UI should load good",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "17:06:2023 10:54:30",\
+            "user_reference": "U041223739",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 1,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 121,\
+            "feedback_type": "REPORT",\
+            "name": "manojsixone_handle",\
+            "screen_category": "Orders/Delivery flow",\
+            "brief": "We don't need auto cancelled status separately, it should be part of not confirmed and cancelled",\
+            "details": "",\
+            "status": "FIXED",\
+            "group": null,\
+            "priority": null,\
+            "date": "17:06:2023 10:52:43",\
+            "user_reference": "U041223739",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 1,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 120,\
+            "feedback_type": "SUGGESTION",\
+            "name": "manojsixone_handle",\
+            "screen_category": "Orders/Delivery flow",\
+            "brief": "Store icons should always be rounded rectangle",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "17:06:2023 10:51:26",\
+            "user_reference": "U041223739",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 119,\
+            "feedback_type": "SUGGESTION",\
+            "name": "manojsixone_handle",\
+            "screen_category": "Search",\
+            "brief": "Whenever a hint text is exceeding the container, make it rolling",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "17:06:2023 10:50:39",\
+            "user_reference": "U041223739",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 118,\
+            "feedback_type": "SUGGESTION",\
+            "name": "manojsixone_handle",\
+            "screen_category": "Orders/Delivery flow",\
+            "brief": "Order statuses brief for buyer",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "17:06:2023 10:49:39",\
+            "user_reference": "U041223739",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 117,\
+            "feedback_type": "SUGGESTION",\
+            "name": "manojsixone_handle",\
+            "screen_category": "Notifications",\
+            "brief": "Notifications should look good",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "17:06:2023 10:48:05",\
+            "user_reference": "U041223739",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 116,\
+            "feedback_type": "SUGGESTION",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Home",\
+            "brief": "Postal code update message can be removed",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "16:06:2023 21:22:51",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 115,\
+            "feedback_type": "REPORT",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Settings",\
+            "brief": "When store level settings are applied on product - what is identifier when seller opens edit",\
+            "details": "Same applies for buyer in product page",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "12:06:2023 22:49:59",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 114,\
+            "feedback_type": "REPORT",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Product page",\
+            "brief": "Stripping whitespace of all products details - now no spaces are present inside text",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "12:06:2023 22:46:28",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 113,\
+            "feedback_type": "REPORT",\
+            "name": "manojsixone_handle",\
+            "screen_category": "Payments",\
+            "brief": "Reduce the payment wait time to 1 sec for testing",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "12:06:2023 21:26:06",\
+            "user_reference": "U041223739",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 112,\
+            "feedback_type": "REPORT",\
+            "name": "manojsixone_handle",\
+            "screen_category": "Shopping cart",\
+            "brief": "Change spelling for contact details",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "12:06:2023 21:24:32",\
+            "user_reference": "U041223739",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 111,\
+            "feedback_type": "REPORT",\
+            "name": "manojsixone_handle",\
+            "screen_category": "Orders/Cancel flow",\
+            "brief": "Why orders are not moved to cancel when payment is not success",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "12:06:2023 21:21:27",\
+            "user_reference": "U041223739",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 110,\
+            "feedback_type": "REPORT",\
+            "name": "manojsixone_handle",\
+            "screen_category": "Orders/Cancel flow",\
+            "brief": "When payment is pending or cancelled due to payment issue - it should be shown in orders list as wel",\
+            "details": "Show them as status",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "12:06:2023 21:20:27",\
+            "user_reference": "U041223739",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 109,\
+            "feedback_type": "REPORT",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Orders/Cancel flow",\
+            "brief": "Orders with payment pending should not show up in orders list for seller",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "12:06:2023 21:10:01",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 108,\
+            "feedback_type": "SUGGESTION",\
+            "name": "sushant_076790hjf",\
+            "screen_category": "Fraud",\
+            "brief": "Banwhwh",\
+            "details": "Bsjsmsjem",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "12:06:2023 17:43:03",\
+            "user_reference": "U030223013",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 106,\
+            "feedback_type": "REPORT",\
+            "name": "sushant_076790hjf",\
+            "screen_category": "Account deletion",\
+            "brief": "S8470972",\
+            "details": "Test",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "10:06:2023 10:32:34",\
+            "user_reference": "U030223013",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 105,\
+            "feedback_type": "REPORT",\
+            "name": "sushant_076790hjf",\
+            "screen_category": "Account deletion",\
+            "brief": "S6908210",\
+            "details": "I don\'92t want this account.",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "10:06:2023 10:32:18",\
+            "user_reference": "U030223013",\
+            "upvote_count": 1,\
+            "upvote_users": "U030223013",\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 104,\
+            "feedback_type": "REPORT",\
+            "name": "sushant_076790hjf",\
+            "screen_category": "Account deletion",\
+            "brief": "S7769559",\
+            "details": "Jist delete",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "10:06:2023 10:31:41",\
+            "user_reference": "U030223013",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 1,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 100,\
+            "feedback_type": "SUGGESTION",\
+            "name": "sushant_076790hjf",\
+            "screen_category": "Scam",\
+            "brief": "Seller is a scammer",\
+            "details": "Test",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "10:06:2023 10:26:23",\
+            "user_reference": "U030223013",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 3,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 95,\
+            "feedback_type": "SUGGESTION",\
+            "name": "sushant_076790hjf",\
+            "screen_category": "Store page",\
+            "brief": "Pdf",\
+            "details": "Pppp",\
+            "status": "APPROVED",\
+            "group": null,\
+            "priority": null,\
+            "date": "09:06:2023 23:26:57",\
+            "user_reference": "U030223013",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 2,\
+            "responses": null,\
+            "feedback_files": [\
+                \{\
+                    "feedback_file_id": 13,\
+                    "images": null,\
+                    "attachments": "/media/feed_back_attachment/sample_1.pdf",\
+                    "created_date": "2023-06-09T23:26:58.118398+05:30",\
+                    "feedback": 95\
+                \}\
+            ]\
+        \},\
+        \{\
+            "feedback_id": 89,\
+            "feedback_type": "SUGGESTION",\
+            "name": "sushant_076790hjf",\
+            "screen_category": "GST verification",\
+            "brief": "Gst verify",\
+            "details": "Gst issue",\
+            "status": "REJECTED",\
+            "group": null,\
+            "priority": null,\
+            "date": "09:06:2023 19:57:54",\
+            "user_reference": "U030223013",\
+            "upvote_count": 1,\
+            "upvote_users": "U030223013",\
+            "responses_count": 6,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 88,\
+            "feedback_type": "SUGGESTION",\
+            "name": "sushant_076790hjf",\
+            "screen_category": "Return and refund settings",\
+            "brief": "Return refund settings",\
+            "details": "Settings in refund",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "09:06:2023 19:49:23",\
+            "user_reference": "U030223013",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 87,\
+            "feedback_type": "SUGGESTION",\
+            "name": "sushant_076790hjf",\
+            "screen_category": "Accounts",\
+            "brief": "My account balance.",\
+            "details": "Something",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "09:06:2023 19:44:58",\
+            "user_reference": "U030223013",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 1,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 84,\
+            "feedback_type": "SUGGESTION",\
+            "name": "sushant_076790hjf",\
+            "screen_category": "Add products",\
+            "brief": "Store side review",\
+            "details": "Store adding",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "09:06:2023 18:23:42",\
+            "user_reference": "U030223013",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 2,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 83,\
+            "feedback_type": "REPORT",\
+            "name": "manojsixone_handle",\
+            "screen_category": "Order confirmation",\
+            "brief": "From payment waiting screen I cancelled payment - order is showing up to buyer",\
+            "details": "should we have payment pending category for these and cancel it when fails",\
+            "status": "REVIEWED",\
+            "group": null,\
+            "priority": null,\
+            "date": "08:06:2023 22:59:07",\
+            "user_reference": "U041223739",\
+            "upvote_count": 1,\
+            "upvote_users": "U030223013",\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 82,\
+            "feedback_type": "REPORT",\
+            "name": "manojsixone_handle",\
+            "screen_category": "Others",\
+            "brief": "Support screen: confirm when feedback is submitted",\
+            "details": "",\
+            "status": "APPROVED",\
+            "group": null,\
+            "priority": null,\
+            "date": "08:06:2023 22:54:29",\
+            "user_reference": "U041223739",\
+            "upvote_count": 1,\
+            "upvote_users": "U030223013",\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 81,\
+            "feedback_type": "REPORT",\
+            "name": "manojsixone_handle",\
+            "screen_category": "Product page",\
+            "brief": "Add delivery fee and delivery fee type. Check what other details are to be here for buyer",\
+            "details": "",\
+            "status": "REJECTED",\
+            "group": null,\
+            "priority": null,\
+            "date": "08:06:2023 22:53:45",\
+            "user_reference": "U041223739",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 79,\
+            "feedback_type": "REPORT",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Orders/Cancel flow",\
+            "brief": "Auto cancellation didnt happen. Time went to negative",\
+            "details": "",\
+            "status": "PLANNED",\
+            "group": null,\
+            "priority": null,\
+            "date": "08:06:2023 22:50:22",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 1,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 78,\
+            "feedback_type": "REPORT",\
+            "name": "manojsixone_handle",\
+            "screen_category": "Others",\
+            "brief": "Support attachments are shrinked. As a rule of thumb you should never shrink images & change aspect",\
+            "details": "Ratio",\
+            "status": "FIXED",\
+            "group": null,\
+            "priority": null,\
+            "date": "08:06:2023 14:30:17",\
+            "user_reference": "U041223739",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 77,\
+            "feedback_type": "REPORT",\
+            "name": "manojsixone_handle",\
+            "screen_category": "Others",\
+            "brief": "Support screen tab is missing out some times even within the same version",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "08:06:2023 14:29:00",\
+            "user_reference": "U041223739",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": [\
+                \{\
+                    "feedback_file_id": 9,\
+                    "images": "/media/feed_back_image/Screenshot_2023-06-08-14-25-39-369_com.swadesic.swadesic.jpg",\
+                    "attachments": null,\
+                    "created_date": "2023-06-08T14:29:01.594691+05:30",\
+                    "feedback": 77\
+                \},\
+                \{\
+                    "feedback_file_id": 10,\
+                    "images": "/media/feed_back_image/Screenshot_2023-06-08-14-25-27-472_com.swadesic.swadesic.jpg",\
+                    "attachments": null,\
+                    "created_date": "2023-06-08T14:29:02.204963+05:30",\
+                    "feedback": 77\
+                \}\
+            ]\
+        \},\
+        \{\
+            "feedback_id": 76,\
+            "feedback_type": "REPORT",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Store profile",\
+            "brief": "Business category field is not updating",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "06:06:2023 15:41:16",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 75,\
+            "feedback_type": "REPORT",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Edit profile",\
+            "brief": "Store handle should accept underscores & full stops. And they should be shown lower cases only.",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "04:06:2023 20:41:27",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 74,\
+            "feedback_type": "REPORT",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Support",\
+            "brief": "Report levels should be alphabetically sorted",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "04:06:2023 20:32:55",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 71,\
+            "feedback_type": "SUGGESTION",\
+            "name": "sushant_076790hjf",\
+            "screen_category": "Orders/Delivery flow",\
+            "brief": "Seller",\
+            "details": "dddf",\
+            "status": "REJECTED",\
+            "group": null,\
+            "priority": null,\
+            "date": "03:06:2023 19:38:23",\
+            "user_reference": "U030223013",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 2,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 70,\
+            "feedback_type": "SUGGESTION",\
+            "name": "sushant_076790hjf",\
+            "screen_category": "Orders/return flow",\
+            "brief": "ghghgh",\
+            "details": "ghghg",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "03:06:2023 19:37:45",\
+            "user_reference": "U030223013",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 69,\
+            "feedback_type": "SUGGESTION",\
+            "name": "sushant_076790hjf",\
+            "screen_category": "Fraud",\
+            "brief": "Seller is not uploading right products.",\
+            "details": "Not good exp.",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "03:06:2023 19:37:23",\
+            "user_reference": "U030223013",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 68,\
+            "feedback_type": "SUGGESTION",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Products",\
+            "brief": "Non numeric values can be pasted and when passed through next giving error - it should accept",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "02:06:2023 01:22:02",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": "",\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 67,\
+            "feedback_type": "SUGGESTION",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Products",\
+            "brief": "Selling price should be less than MRP. Overriding happening if we push through next button",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "02:06:2023 01:20:24",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": "",\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 66,\
+            "feedback_type": "SUGGESTION",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Products",\
+            "brief": "While adding products - return settings and delivery setting values are not persisting",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "02:06:2023 01:18:13",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 65,\
+            "feedback_type": "SUGGESTION",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Products",\
+            "brief": "Reset button should be there for delivery settings also",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "02:06:2023 01:15:53",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 64,\
+            "feedback_type": "SUGGESTION",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Search",\
+            "brief": "Make sure Animations of selecting buttons should be same",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "02:06:2023 01:13:00",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 63,\
+            "feedback_type": "REPORT",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Search",\
+            "brief": "Support category should have a typable list.",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "02:06:2023 01:12:04",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 62,\
+            "feedback_type": "REPORT",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Search",\
+            "brief": "Implement tab swipes in support",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "02:06:2023 01:11:18",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 61,\
+            "feedback_type": "REPORT",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Products",\
+            "brief": "Last image in add products is not deleting while I'm at page",\
+            "details": "",\
+            "status": "PLANNED",\
+            "group": null,\
+            "priority": null,\
+            "date": "02:06:2023 01:10:47",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 60,\
+            "feedback_type": "SUGGESTION",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Search",\
+            "brief": "Implement filter functionality in all feedback",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "02:06:2023 01:06:22",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 59,\
+            "feedback_type": "SUGGESTION",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Search",\
+            "brief": "Check trust center text - it doesn't look like h2 semi bold",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "02:06:2023 01:05:57",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 58,\
+            "feedback_type": "SUGGESTION",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Search",\
+            "brief": "Feedback description length should be more - 1000chars",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "02:06:2023 01:05:28",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 57,\
+            "feedback_type": "SUGGESTION",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Search",\
+            "brief": "Clicking on report or suggestion should show give feedback page",\
+            "details": "When I am in all pilot feedback and then to go to another page and hit report. I'm going to all pilo",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "02:06:2023 01:04:51",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 56,\
+            "feedback_type": "SUGGESTION",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Search",\
+            "brief": "Gstin submission issue",\
+            "details": "When gstin is submitted, it should not say saved. It should say submitted for verification",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "02:06:2023 01:02:52",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 55,\
+            "feedback_type": "REPORT",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Search",\
+            "brief": "Gstin formats",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "02:06:2023 01:00:49",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 54,\
+            "feedback_type": "SUGGESTION",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Products",\
+            "brief": "Images should be shown with full sizes when tapped not just squared",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "02:06:2023 00:59:05",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 53,\
+            "feedback_type": "SUGGESTION",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Search",\
+            "brief": "Home screen refresh functionality",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "02:06:2023 00:57:46",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 52,\
+            "feedback_type": "SUGGESTION",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Products",\
+            "brief": "Order of cart products",\
+            "details": "Set them in the order store + add to cart order",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "02:06:2023 00:54:22",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 51,\
+            "feedback_type": "SUGGESTION",\
+            "name": "manojsixone_50469",\
+            "screen_category": "Products",\
+            "brief": "Open the image I clicked in review images of comments",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "22:05:2023 01:08:07",\
+            "user_reference": "U041223739",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 50,\
+            "feedback_type": "REPORT",\
+            "name": "sushant_076790hjf",\
+            "screen_category": "Account deletion",\
+            "brief": "S6327123",\
+            "details": "Dddddd",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "21:05:2023 00:00:00",\
+            "user_reference": "U030223013",\
+            "upvote_count": 1,\
+            "upvote_users": "U030223013",\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 49,\
+            "feedback_type": "REPORT",\
+            "name": "sushant_076790hjf",\
+            "screen_category": "Account deletion",\
+            "brief": "S5464129",\
+            "details": "I just wants to delete.",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "20:05:2023 23:59:16",\
+            "user_reference": "U030223013",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 48,\
+            "feedback_type": "REPORT",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Products",\
+            "brief": "Button for \\"ask seller\\" in add product preview page is missing",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "14:05:2023 22:40:45",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 47,\
+            "feedback_type": "REPORT",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Products",\
+            "brief": "Store handle name is static in preview",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "14:05:2023 22:39:57",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 46,\
+            "feedback_type": "SUGGESTION",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Products",\
+            "brief": "What version changes are sent to notifications?",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "09:05:2023 01:40:09",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 43,\
+            "feedback_type": "REPORT",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Orders/returns",\
+            "brief": "Store for 1 and stores for more than 1 in order confirmation",\
+            "details": "",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "27:04:2023 18:42:08",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 1,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 42,\
+            "feedback_type": "REPORT",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Products",\
+            "brief": "Couldn't set delivery & return settings while adding products",\
+            "details": "Make the description for report optional",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "25:04:2023 00:15:09",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": "",\
+            "responses_count": 1,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 41,\
+            "feedback_type": "REPORT",\
+            "name": "sushant_076790hjf",\
+            "screen_category": "Account deletion",\
+            "brief": "S8097558",\
+            "details": "Noreason",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "24:04:2023 19:20:45",\
+            "user_reference": "U030223013",\
+            "upvote_count": 1,\
+            "upvote_users": "U030223013",\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 40,\
+            "feedback_type": "REPORT",\
+            "name": "sushant_076790hjf",\
+            "screen_category": "Account deletion",\
+            "brief": "S2173130",\
+            "details": "No reason",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "24:04:2023 19:20:30",\
+            "user_reference": "U030223013",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 39,\
+            "feedback_type": "REPORT",\
+            "name": "sushant_076790hjf",\
+            "screen_category": "Account deletion",\
+            "brief": "S9356303",\
+            "details": "Mistake also",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "24:04:2023 19:09:32",\
+            "user_reference": "U030223013",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 38,\
+            "feedback_type": "REPORT",\
+            "name": "sushant_076790hjf",\
+            "screen_category": "Account deletion",\
+            "brief": "S0127715",\
+            "details": "Mistake",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "24:04:2023 19:09:09",\
+            "user_reference": "U030223013",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 37,\
+            "feedback_type": "REPORT",\
+            "name": "sushant_076790hjf",\
+            "screen_category": "Account deletion",\
+            "brief": "S0417268",\
+            "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "21:04:2023 17:45:05",\
+            "user_reference": "U030223013",\
+            "upvote_count": 1,\
+            "upvote_users": "U030223013",\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": [\
+                \{\
+                    "feedback_file_id": 8,\
+                    "images": "/media/feed_back_image/premium_photo-1676998931123-75789162f170.jpeg",\
+                    "attachments": null,\
+                    "created_date": "2023-04-21T17:45:06.672539+05:30",\
+                    "feedback": 37\
+                \}\
+            ]\
+        \},\
+        \{\
+            "feedback_id": 36,\
+            "feedback_type": "REPORT",\
+            "name": "sushant_076790hjf",\
+            "screen_category": "Account deletion",\
+            "brief": "S7963319",\
+            "details": "I don't wa",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "19:04:2023 20:21:05",\
+            "user_reference": "U030223013",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 35,\
+            "feedback_type": "REPORT",\
+            "name": "sushant_076790hjf",\
+            "screen_category": "Account deletion",\
+            "brief": "S7306762",\
+            "details": "I am not going to share.",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "19:04:2023 16:44:31",\
+            "user_reference": "U030223013",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 34,\
+            "feedback_type": "REPORT",\
+            "name": "sushant_076790hjf",\
+            "screen_category": "Account deletion",\
+            "brief": "S7306762",\
+            "details": "Nooooo",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "19:04:2023 16:42:47",\
+            "user_reference": "U030223013",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 33,\
+            "feedback_type": "REPORT",\
+            "name": "sushant_076790hjf",\
+            "screen_category": "Account deletion",\
+            "brief": "S7306762",\
+            "details": "I don;t want to sell anymore.",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "19:04:2023 16:39:55",\
+            "user_reference": "U030223013",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 32,\
+            "feedback_type": "REPORT",\
+            "name": "sushant_076790hjf",\
+            "screen_category": "Account deletion",\
+            "brief": "S6220718",\
+            "details": "I don't want to sell anything.",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "19:04:2023 16:05:04",\
+            "user_reference": "U030223013",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": [\
+                \{\
+                    "feedback_file_id": 7,\
+                    "images": "/media/feed_back_image/61VfL-aiToL._SX679_.jpg",\
+                    "attachments": null,\
+                    "created_date": "2023-04-19T16:05:12.008514+05:30",\
+                    "feedback": 32\
+                \}\
+            ]\
+        \},\
+        \{\
+            "feedback_id": 31,\
+            "feedback_type": "REPORT",\
+            "name": "sushant_076790hjf",\
+            "screen_category": "Account deletion",\
+            "brief": "S6220718",\
+            "details": "I don't want to sell anything.",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "19:04:2023 16:04:07",\
+            "user_reference": "U030223013",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 30,\
+            "feedback_type": "REPORT",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "App",\
+            "brief": "S0926241 \\nIssues with an order placed with the store",\
+            "details": "Please help",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "18:04:2023 00:59:57",\
+            "user_reference": "U030323392",\
+            "upvote_count": 0,\
+            "upvote_users": "",\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 29,\
+            "feedback_type": "REPORT",\
+            "name": "radhe_07406",\
+            "screen_category": "AppReport",\
+            "brief": "P0307231SLJZ \\nProducts are fake but listed as genuine",\
+            "details": "Feke",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "15:04:2023 18:42:44",\
+            "user_reference": "U041523017",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 28,\
+            "feedback_type": "REPORT",\
+            "name": "radhe_07406",\
+            "screen_category": "AppReport",\
+            "brief": "S0926241 \\nImage is not right.",\
+            "details": "Please remove this store.",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "15:04:2023 18:41:36",\
+            "user_reference": "U041523017",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 27,\
+            "feedback_type": "REPORT",\
+            "name": "sushant_076790hjf",\
+            "screen_category": "AppReport",\
+            "brief": "S6220718 \\nTrust center details are wrong.",\
+            "details": "Wrong details in trust center.",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "15:04:2023 15:26:48",\
+            "user_reference": "U030223013",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 26,\
+            "feedback_type": "REPORT",\
+            "name": "sushant_076790hjf",\
+            "screen_category": "AppReport",\
+            "brief": "6 \\nSeller is spamming me or someone I know, Store is pretending as some other brand",\
+            "details": "Wrong comment.",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "15:04:2023 15:03:31",\
+            "user_reference": "U030223013",\
+            "upvote_count": 1,\
+            "upvote_users": "U030223013",\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 25,\
+            "feedback_type": "REPORT",\
+            "name": "sushant_076790hjf",\
+            "screen_category": "AppReport",\
+            "brief": "5 \\nUsing abusive language.",\
+            "details": "Please, remove this user.",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "15:04:2023 14:56:06",\
+            "user_reference": "U030223013",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 24,\
+            "feedback_type": "REPORT",\
+            "name": "sushant_076790hjf",\
+            "screen_category": "AppReport",\
+            "brief": "P0303231MOJR \\nProduct imae is not clear.",\
+            "details": "Looks like used product posted. Please remove this.",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "15:04:2023 13:46:48",\
+            "user_reference": "U030223013",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 23,\
+            "feedback_type": "REPORT",\
+            "name": "sushant_076790hjf",\
+            "screen_category": "AppReport",\
+            "brief": "S6220718 \\nProducts are fake but listed as genuine",\
+            "details": "Fake products. Please remove the product.",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "15:04:2023 12:28:13",\
+            "user_reference": "U030223013",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 21,\
+            "feedback_type": "REPORT",\
+            "name": "sushant_076790hjf",\
+            "screen_category": "App",\
+            "brief": "S8470972 \\nIssues with an order placed with the store",\
+            "details": "Wrong product image",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "14:04:2023 22:57:22",\
+            "user_reference": "U030223013",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 1,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 10,\
+            "feedback_type": "REPORT",\
+            "name": "sushant_076790hjf",\
+            "screen_category": "App",\
+            "brief": "S6220718 \\nProducts are fake but listed as genuine",\
+            "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "14:04:2023 20:57:10",\
+            "user_reference": "U030223013",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 7,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 8,\
+            "feedback_type": "REPORT",\
+            "name": "sushant_076790hjf",\
+            "screen_category": "App",\
+            "brief": "S6220718 \\n Seller is spamming me or someone I know, Store is pretending as some other brand",\
+            "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "14:04:2023 20:52:03",\
+            "user_reference": "U030223013",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 1,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 7,\
+            "feedback_type": "REPORT",\
+            "name": "sushant_076790hjf",\
+            "screen_category": "App",\
+            "brief": "S6220718 \\n Seller is spamming me or someone I know, Store is pretending as some other brand",\
+            "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "14:04:2023 20:51:44",\
+            "user_reference": "U030223013",\
+            "upvote_count": 0,\
+            "upvote_users": null,\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 6,\
+            "feedback_type": "SUGGESTION",\
+            "name": "basanti_45826",\
+            "screen_category": "Invites",\
+            "brief": "Test",\
+            "details": "Test desc",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "13:04:2023 14:10:09",\
+            "user_reference": "U041323987",\
+            "upvote_count": 1,\
+            "upvote_users": "U030223013",\
+            "responses_count": 3,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 5,\
+            "feedback_type": "REPORT",\
+            "name": "manoj_subramanyam",\
+            "screen_category": "Invites",\
+            "brief": "It was good but unnatural",\
+            "details": "Can you fix it to be more lively?",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "07:04:2023 10:37:31",\
+            "user_reference": "U030323392",\
+            "upvote_count": 1,\
+            "upvote_users": "U030223013",\
+            "responses_count": 1,\
+            "responses": null,\
+            "feedback_files": []\
+        \},\
+        \{\
+            "feedback_id": 4,\
+            "feedback_type": "REPORT",\
+            "name": "sushant_076790",\
+            "screen_category": "Search",\
+            "brief": "Search content are not exact",\
+            "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "01:04:2023 16:07:28",\
+            "user_reference": "U030223013",\
+            "upvote_count": 1,\
+            "upvote_users": "U030223013",\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": [\
+                \{\
+                    "feedback_file_id": 5,\
+                    "images": "/media/feed_back_image/pexels-waleed-ilyas-14829579_OzTx0la.jpg",\
+                    "attachments": null,\
+                    "created_date": "2023-04-01T16:07:31.140855+05:30",\
+                    "feedback": 4\
+                \},\
+                \{\
+                    "feedback_file_id": 6,\
+                    "images": "/media/feed_back_image/IMG_20230112_055016.jpg",\
+                    "attachments": null,\
+                    "created_date": "2023-04-01T16:07:32.478590+05:30",\
+                    "feedback": 4\
+                \}\
+            ]\
+        \},\
+        \{\
+            "feedback_id": 2,\
+            "feedback_type": "SUGGESTION",\
+            "name": "sushant_076790",\
+            "screen_category": "Products",\
+            "brief": "Ui need to fux",\
+            "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "25:03:2023 17:35:44",\
+            "user_reference": "U030223013",\
+            "upvote_count": 0,\
+            "upvote_users": "",\
+            "responses_count": 1,\
+            "responses": null,\
+            "feedback_files": [\
+                \{\
+                    "feedback_file_id": 2,\
+                    "images": "/media/feed_back_image/pexels-waleed-ilyas-14829579.jpg",\
+                    "attachments": null,\
+                    "created_date": "2023-03-25T17:35:46.727931+05:30",\
+                    "feedback": 2\
+                \},\
+                \{\
+                    "feedback_file_id": 3,\
+                    "images": null,\
+                    "attachments": "/media/feed_back_attachment/sample.pdf",\
+                    "created_date": "2023-03-25T17:35:46.791241+05:30",\
+                    "feedback": 2\
+                \}\
+            ]\
+        \},\
+        \{\
+            "feedback_id": 1,\
+            "feedback_type": "SUGGESTION",\
+            "name": "sushant_07679",\
+            "screen_category": "Products",\
+            "brief": "Product UI",\
+            "details": "Product text aren\'92t good.",\
+            "status": "CREATED",\
+            "group": null,\
+            "priority": null,\
+            "date": "10:03:2023 02:23:44",\
+            "user_reference": "U030223013",\
+            "upvote_count": 1,\
+            "upvote_users": "U030223013",\
+            "responses_count": 0,\
+            "responses": null,\
+            "feedback_files": [\
+                \{\
+                    "feedback_file_id": 1,\
+                    "images": "/media/feed_back_image/milad-fakurian-PGdW_bHDbpI-unsplash.jpg",\
+                    "attachments": null,\
+                    "created_date": "2023-03-10T02:23:47.279974+05:30",\
+                    "feedback": 1\
+                \}\
+            ]\
+        \}\
+    ]\
+\}}
