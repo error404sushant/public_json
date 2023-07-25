@@ -7,7 +7,7 @@
         "email":"support@swadesic.com"
     },
     "social_links":{
-        "whatsapp":"whatsapp://send?phone=${_countryCodeController.text + 9}",
+        "whatsapp":"whatsapp://send?phone=${+91 + 8076219463}",
         "instagram":"https://instagram.com/swadesic?igshid=MzRlODBiNWFlZA==",
         "threads":"https://www.threads.net/@swadesic",
         "threads":"https://twitter.com/swadesicapp?s=21"
