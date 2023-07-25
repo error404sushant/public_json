@@ -10,6 +10,6 @@
         "whatsapp":"whatsapp://send?phone=${+91 + 8076219463}",
         "instagram":"https://instagram.com/swadesic?igshid=MzRlODBiNWFlZA==",
         "threads":"https://www.threads.net/@swadesic",
-        "threads":"https://twitter.com/swadesicapp?s=21"
+        "twitter":"https://twitter.com/swadesicapp?s=21"
     }
 }
