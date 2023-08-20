@@ -1,5 +1,5 @@
 ---
-title: SWADESIC PRIVACY POLICY
+# SWADESIC PRIVACY POLICY
 ---
 
 #### [Last updated August 19, 2023]{.smallcaps} {#last-updated-august-19-2023 .unnumbered}
