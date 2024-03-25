@@ -3,9 +3,9 @@
         "base_url": "https://e2e-77-175.ssdcloudindia.net/dev"
     },
     "qa": {
-        "base_url": "https://e2e-77-175.ssdcloudindia.net/dev"
+        "base_url": "https://e2e-77-175.ssdcloudindia.net/qa"
     },
     "prod": {
-        "base_url": "https://e2e-77-175.ssdcloudindia.net/dev"
+        "base_url": "https://e2e-77-175.ssdcloudindia.net/prod"
     }
 }
